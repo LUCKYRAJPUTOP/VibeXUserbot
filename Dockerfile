@@ -1,6 +1,6 @@
 # inherit prebuilt image
 #Changed docker file
-FROM luckyrajputop/vibexuserbot:latest
+FROM elytra8/fizfed:latest
 
 # env setup
 RUN mkdir /VibeXUserbot && chmod 777 /VibeXUserbot
