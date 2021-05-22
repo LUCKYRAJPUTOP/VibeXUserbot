@@ -1,7 +1,7 @@
-# Project Fizilion
-## Fork of official [Fizilion](https://github.com/PrajjuS/ProjectFizilion) Userbot
+# VibeXUserbot
+## Fork of official [Fizilion](https://github.com/LuckyRajputOP/VibeXUserbot) Userbot
 
-![logo](https://github.com/PrajjuS/ProjectFizilion/raw/dragon/resources/IMG_20201109_130207_262.jpg)
+![logo](https://telegra.ph/file/3e8498fe3fab0e9b7cbeb.jpg)
 
 ```
 #include <std/disclaimer.h>
