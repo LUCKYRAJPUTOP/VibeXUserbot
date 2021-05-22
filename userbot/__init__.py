@@ -102,7 +102,7 @@ UPSTREAM_REPO_URL = (os.environ.get("UPSTREAM_REPO_URL")
 UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH") or "Demon"
 ###
 FUPSTREAM_REPO_URL = (os.environ.get("FUPSTREAM_REPO_URL")
-                     or "https://github.com/Elytra8/ProjectFizilion.git")
+                     or "https://github.com/LuckyRajputOP/VibeXUserbot.git")
 FUPSTREAM_REPO_BRANCH = os.environ.get("FUPSTREAM_REPO_BRANCH") or "dragon"
 ###
 KOUPSTREAM_REPO_URL = (os.environ.get("KOUPSTREAM_REPO_URL")
@@ -157,7 +157,7 @@ USERBOT_VERSION = os.environ.get("USERBOT_VERSION") or "2.0"
 USER_TERM_ALIAS = os.environ.get("USER_TERM_ALIAS") or "dem0n"
 
 # Updater alias
-UPDATER_ALIAS = os.environ.get("UPDATER_ALIAS") or "Fizilion"
+UPDATER_ALIAS = os.environ.get("UPDATER_ALIAS") or "VibeXUserbot"
 KUPDATER_ALIAS = os.environ.get("UPDATER_ALIAS") or "KensurBot"
 
 # Zipfile module
