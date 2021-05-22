@@ -1,7 +1,7 @@
 {
-  "name": "Project Fizilion",
+  "name": "VibeXUserbot",
   "description": "A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
-  "logo": "https://github.com/PrajjUS/ProjectFizilion/raw/demon/resources/Fizilion.png",
+  "logo": "https://telegra.ph/file/3e8498fe3fab0e9b7cbeb.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PrajjuS/ProjectFizilion",
+  "repository": "https://github.com/LuckyRajputOP/VibeXUserbot",
   "website": "https://t.me/PrajjuS",
-  "success_url": "https://t.me/ProjectFizilion",
+  "success_url": "https://t.me/VibeXSupport",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -170,7 +170,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️Fizilion",
+      "value": "[PM = Report Spam] I ❤ ️VibeXUserbot",
       "required": false
     },
     "ALIVE_NAME": {
