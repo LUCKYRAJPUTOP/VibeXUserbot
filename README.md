@@ -1,5 +1,5 @@
 # VibeXUserbot
-## Fork of official [Fizilion](https://github.com/LuckyRajputOP/VibeXUserbot) Userbot
+## Fork of official [VIBEXUSERBOT](https://github.com/LuckyRajputOP/VibeXUserbot) Userbot
 
 ![logo](https://telegra.ph/file/3e8498fe3fab0e9b7cbeb.jpg)
 
