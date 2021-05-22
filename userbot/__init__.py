@@ -98,7 +98,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN") or None
 
 # Custom (forked) repo URL and BRANCH for updater.
 UPSTREAM_REPO_URL = (os.environ.get("UPSTREAM_REPO_URL")
-                     or "https://github.com/PrajjuS/ProjectFizilion.git")
+                     or "https://github.com/LuckyRajputOP/VibeXUserbot.git")
 UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH") or "Demon"
 ###
 FUPSTREAM_REPO_URL = (os.environ.get("FUPSTREAM_REPO_URL")
@@ -145,7 +145,7 @@ ALIVE_NAME = os.environ.get("ALIVE_NAME") or None
 # .alive and .help timeout
 TIMEOUT = sb(os.environ.get("TIMEOUT") or "True")
 # Default .alive logo
-ALIVE_LOGO = str(os.environ.get("ALIVE_LOGO") or "https://github.com/ElytrA8/ProjectFizilion/raw/dragon/resources/glitch.gif")
+ALIVE_LOGO = str(os.environ.get("ALIVE_LOGO") or "https://telegra.ph/file/3e8498fe3fab0e9b7cbeb.jpg")
 # Time & Date - Country and Time Zone
 COUNTRY = str(os.environ.get("COUNTRY") or "")
 TZ_NUMBER = int(os.environ.get("TZ_NUMBER") or 1)
@@ -294,14 +294,14 @@ uptime = time.strftime('%X')
 ##
 output = (
     "` =============================== `\n"
-    f"`Fizilion is Up [Premium Edition] `\n"
+    f"`𝗩𝗶𝗯𝗲𝗫𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𝗜𝘀 𝗨𝗽 [Premium Edition] `\n"
     f"`=============================== `\n"
     f"•`Telethon       : v{version.__version__} `\n"
     f"•`Python         : v{python_version()} `\n"
     f"•`User           : {DEFAULTUSER} `\n"
     f"•`Running on     : {repo.active_branch.name} `\n"
     f"•`Loaded modules : 107 `\n"
-    f"•`Fizilion       : {USERBOT_VERSION} `\n"
+    f"•`VibeXUserbot   : {USERBOT_VERSION} `\n"
     f"•`Bot started at : {uptime} `\n" 
 )
 
