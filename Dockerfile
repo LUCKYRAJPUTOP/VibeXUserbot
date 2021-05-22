@@ -3,16 +3,16 @@
 FROM elytra8/fizfed:latest
 
 # env setup
-RUN mkdir /Fizilion && chmod 777 /Fizilion
-ENV PATH="/Fizilion/bin:$PATH"
-WORKDIR /Fizilion
+RUN mkdir /VibeXUserbot && chmod 777 /VibeXUserbot
+ENV PATH="/VibeXUserbot/bin:$PATH"
+WORKDIR /VibeXUserbot
 
 # clone repo
-RUN git clone https://github.com/PrajjuS/ProjectFizilion -b Demon /Fizilion
+RUN git clone https://github.com/LuckyRajputOP/VibeXUserbot -b Demon /VibeXUserbot
 
 
 # Copies session and config(if it exists)
-COPY ./sample_config.env ./userbot.session* ./config.env* /Fizilion/
+COPY ./sample_config.env ./userbot.session* ./config.env* /VibeXUserbot/
 
 #transfer
 RUN curl -sL https://git.io/file-transfer | sh
